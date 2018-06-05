@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfTwoLowestPositiveIntegers", "SumOfTwoLowestPositiveIntegers\SumOfTwoLowestPositiveIntegers.csproj", "{CC5237A1-F832-465B-89E6-A017A83A1790}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfTwoLowestPositiveIntegersTests", "SumOfTwoLowestPositiveIntegersTests\SumOfTwoLowestPositiveIntegersTests.csproj", "{2352BBDC-77CF-410A-86C8-1752AB7C72DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC5237A1-F832-465B-89E6-A017A83A1790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5237A1-F832-465B-89E6-A017A83A1790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5237A1-F832-465B-89E6-A017A83A1790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5237A1-F832-465B-89E6-A017A83A1790}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2352BBDC-77CF-410A-86C8-1752AB7C72DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2352BBDC-77CF-410A-86C8-1752AB7C72DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2352BBDC-77CF-410A-86C8-1752AB7C72DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2352BBDC-77CF-410A-86C8-1752AB7C72DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97831AAB-25AF-4842-8972-CCAAAB9CECD5}
+	EndGlobalSection
+EndGlobal
